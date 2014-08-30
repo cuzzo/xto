@@ -1,0 +1,33 @@
+{
+  "name": "xto",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cuzzo/xto",
+  "authors": [
+    "Cuzzo Yahn <yahn007@outlook.com>"
+  ],
+  "description": "A server/client route-to-controller dispatcher.",
+  "main": "main.js",
+  "keywords": [
+    "express",
+    "node",
+    "javascript",
+    "route",
+    "router",
+    "dispatcher",
+    "client",
+    "server",
+    "cross-architecture"
+  ],
+  "license": "BSD",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "dist"
+  ],
+  "dependencies": {
+    // events...
+  }
+}
