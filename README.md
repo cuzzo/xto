@@ -1,7 +1,7 @@
 xto
 ---
 
-Framework to uniformly dispatch incoming routes to a controller on the server and client, because reusabe code rocks, and n page apps are so 00s.
+An isomorphic framework for React.
 
 Requirements
 ------------
